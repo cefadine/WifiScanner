@@ -1,0 +1,13 @@
+wifiscanner_pro/
+├── main.py                    # Programme principal
+├── modules/                   # Modules fonctionnels
+│   ├── scanner.py            # Scan réseaux
+│   ├── deauth.py             # Déauthentification
+│   ├── handshake.py          # Capture handshake
+│   └── reporter.py           # Génération rapports
+├── utils/                     # Utilitaires
+├── data/                      # Données (fichiers .cap)
+├── reports/                   # Rapports générés
+├── install.sh                 # Script d'installation
+├── run.sh                     # Script de lancement
+└── README.md                  # Documentation
