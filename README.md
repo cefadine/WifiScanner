@@ -1,1 +1,1 @@
-# WifiScanner
+# Wifi-Scanner Pro
